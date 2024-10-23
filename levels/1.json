@@ -1,1 +1,13 @@
-{"id":"1","title":"Bug Bounce!","difficulty":"0","icon":"5","creator":"1","spotlight":"1"}
+{
+  "id": "1",
+  "title": "Bug Bounce!",
+  "difficulty": "0",
+  "icon": "5",
+  "creator": "1",
+  "verifier": "1",
+  "spotlight": "1",
+  "upload_date": "2023-09-24",
+  "firstVictor": "2",
+  "worldRecord": "idk2",
+  "creatorTime": "idk"
+}
