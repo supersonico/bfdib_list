@@ -1,5 +1,5 @@
 {
   "rate": "5",
-  "difficulty": "9",
-  "review": "awesome"
+  "difficulty": "0",
+  "review": "bafry"
 }
