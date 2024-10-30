@@ -1,0 +1,5 @@
+{
+  "rate": "2",
+  "difficulty": "9.6",
+  "review": "The first 5 seconds alone are a D9\nIf you would remove the first 5 seconds, it would still be a D9\nThat should speak for itself"
+}
