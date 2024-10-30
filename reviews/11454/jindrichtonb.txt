@@ -1,0 +1,5 @@
+{
+  "rate": "3",
+  "difficulty": "9.1",
+  "review": "The level can be split into 3 part, 2nd one being the hardest. To beat this level, you need to be a Leafy master. Overall a fun and frustrating challenge. In the end, easier than it looks."
+}
