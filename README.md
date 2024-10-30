@@ -10,6 +10,7 @@ Branchlist is currently unfinished, please report bugs in the [Discord server](h
 
 ## Credits
 - Made by [supersonico](https://github.com/supersonico).
+- Domain provided by [kendelon](https://github.com/kendelons).
 - [BFDI: Branches](https://teambranches.itch.io/bfdi-branches) made by Team Branches.
 - Made using [TurboWarp](https://turbowarp.org).
 
