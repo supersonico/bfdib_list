@@ -1,0 +1,5 @@
+{
+  "rate": "4",
+  "difficulty": "10.0",
+  "review": "worst mistake of my life. the fries were good though could've used a bit more salt"
+}
