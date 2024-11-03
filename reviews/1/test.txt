@@ -1,5 +1,0 @@
-{
-  "rate": "5",
-  "difficulty": "1",
-  "review": "test"
-}
