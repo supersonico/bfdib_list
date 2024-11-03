@@ -1,0 +1,5 @@
+{
+  "rate": "5",
+  "difficulty": "8.3",
+  "review": "Very fun level for someone just starting out with a few D8's and wanting a challenge! Was hard but also introduces a whole lot of mechanics for players to start understanding how the game works on a harder difficulty."
+}
