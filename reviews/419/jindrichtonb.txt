@@ -1,0 +1,5 @@
+{
+  "rate": "3",
+  "difficulty": "8.4",
+  "review": "easy :)"
+}

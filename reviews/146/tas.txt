@@ -1,0 +1,5 @@
+{
+  "rate": "5",
+  "difficulty": "0.99",
+  "review": "literally an auto"
+}
