@@ -1,0 +1,5 @@
+{
+  "rate": "4",
+  "difficulty": "8.5",
+  "review": "Lets go gambling!\nAw Dang it\nAw Dang it\nAw Dang it\nAw Dang it\nAw Dang it\nAw Dang it\nAw- Wait... Dang it\nAw Dang it\nFinally"
+}
