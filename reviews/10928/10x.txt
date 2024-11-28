@@ -1,0 +1,5 @@
+{
+  "rate": "5",
+  "difficulty": "10.3",
+  "review": "a bit of creator bias here, but i think this level is actually extremely fun and well balanced. i did have to sacrifice some difficulty for the sake of enjoyment but i really think that was worth it. its still extremely hard, whilst being fun and fair.\ncouldnt ask for a better experience trying to beat something this hard"
+}
