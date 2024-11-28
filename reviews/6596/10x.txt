@@ -1,0 +1,5 @@
+{
+  "rate": "2",
+  "difficulty": "9.25",
+  "review": "first checkpoint is annoying, second checkpoint is fine, last checkpoint is the hardest but only a few jumps\n\nif you like segmented levels with short spurts of really hard gameplay, then this level is probably alright but i just prefer otherwise\n\nits a great skill booster though"
+}
