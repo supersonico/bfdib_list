@@ -1,5 +1,5 @@
 {
   "rate": "3",
-  "difficulty": "7.16",
-  "review": "As the creator of this level, I have a love-hate relationship with it. It's my first level, so it?s messy, but it has a unique charm. The gameplay is generally fine, fun at times even, but it can also feel dull. The blue key path is the most enjoyable, while the green key path, surprisingly, is the least engaging as it's the final key. Overall, the level has some great moments, but it can also drag at times. - Cheesy"
+  "difficulty": "7.17",
+  "review": "As the creator of this level, I have a love-hate relationship with it. It's my first level, so it's messy, but it has a unique charm. The gameplay is generally fine, fun at times even, but it can also feel dull. The blue key path is the most enjoyable, while the green key path, surprisingly, is the least engaging as it's the final key. Overall, the level has some great moments, but it can also drag at times. - Cheesy"
 }
