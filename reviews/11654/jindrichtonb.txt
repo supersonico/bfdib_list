@@ -1,0 +1,5 @@
+{
+  "rate": "3",
+  "difficulty": "8.5",
+  "review": "pure RNG"
+}
