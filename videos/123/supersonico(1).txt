@@ -1,5 +1,0 @@
-{
-  "date": "2009-10-25",
-  "title": "Test 2",
-  "url": "https://www.youtube.com/watch?v=yPYZpwSpKmA"
-}
