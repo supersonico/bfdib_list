@@ -1,5 +1,5 @@
 {
-  "date": "2024-11-30",
-  "title": "Completion",
-  "url": "https://www.youtube.com/watch?v=PGno0A4fYWg"
+  "date": "2024-12-07",
+  "title": "WR speedrun",
+  "url": "https://www.youtube.com/watch?v=JMRSmIpl7ME"
 }
