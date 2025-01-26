@@ -1,0 +1,5 @@
+{
+  "rate": "4",
+  "difficulty": "9.09",
+  "review": "surprisingly easy once you beat it. seriously, after i beat it, i forgot to record it.. AND THEN I HAVE TO BEAT IT AGAIN. so i beat it again like an hour after. i thought i'd have to do 4 days of it again. also everyone is beating this lol. also this level uses basic kaizo mechanics and not grazes which is good."
+}
