@@ -1,0 +1,5 @@
+{
+  "rate": "3",
+  "difficulty": "8.7",
+  "review": "the fall is what makes it  a d9. but once you can do the fall, IT'S AN ABSOLUTE CAKEWALK. and also the triple spikes at after the fall is an absolute filler. honestly a bit lazy level but i like the \"OSC\" sign when you climb the stairs^^"
+}
