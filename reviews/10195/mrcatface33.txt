@@ -1,0 +1,5 @@
+{
+  "rate": "5",
+  "difficulty": "5",
+  "review": "Amazing design, kept me playing for at least a half hour (I beat it of course ?)"
+}
