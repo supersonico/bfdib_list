@@ -1,0 +1,5 @@
+{
+  "rate": "4",
+  "difficulty": "8.3",
+  "review": "It is impossible to get to level three using the fan. It doesn't blow you up high enough."
+}
